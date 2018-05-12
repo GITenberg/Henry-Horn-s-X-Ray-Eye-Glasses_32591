@@ -1,0 +1,32 @@
+_repo: Henry-Horn-s-X-Ray-Eye-Glasses_32591
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32591-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Swain, Dwight V.
+    birthdate: 1915
+    deathdate: 1992
+    gutenberg_agent_id: '35927'
+    url: http://www.gutenberg.org/2009/agents/35927
+    wikipedia: http://www.gutenberg.org/browse/authors/s#a35980
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32591'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1939-1945 -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Spy stories'
+- !lcsh 'Short stories'
+- !lcsh 'Inventions -- Fiction'
+title: Henry Horn's X-Ray Eye Glasses
+url: http://www.gutenberg.org/ebooks/32591
