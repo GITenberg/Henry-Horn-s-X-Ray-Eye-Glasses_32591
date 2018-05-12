@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35927
     wikipedia: http://www.gutenberg.org/browse/authors/s#a35980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32591#Henry-Horn-s-X-Ray-Eye-Glasses
 gutenberg_bookshelf: World War II
 gutenberg_issued: '2010-05-30'
 gutenberg_type: Text
